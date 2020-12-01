@@ -1,0 +1,13 @@
+C:\Users\e1900907\olio-tehtavat\T2-Mäkihyppy\bin\Debug\netcoreapp3.1\T2-Mäkihyppy.exe
+C:\Users\e1900907\olio-tehtavat\T2-Mäkihyppy\bin\Debug\netcoreapp3.1\T2-Mäkihyppy.deps.json
+C:\Users\e1900907\olio-tehtavat\T2-Mäkihyppy\bin\Debug\netcoreapp3.1\T2-Mäkihyppy.runtimeconfig.json
+C:\Users\e1900907\olio-tehtavat\T2-Mäkihyppy\bin\Debug\netcoreapp3.1\T2-Mäkihyppy.runtimeconfig.dev.json
+C:\Users\e1900907\olio-tehtavat\T2-Mäkihyppy\bin\Debug\netcoreapp3.1\T2-Mäkihyppy.dll
+C:\Users\e1900907\olio-tehtavat\T2-Mäkihyppy\bin\Debug\netcoreapp3.1\T2-Mäkihyppy.pdb
+C:\Users\e1900907\olio-tehtavat\T2-Mäkihyppy\obj\Debug\netcoreapp3.1\T2-Mäkihyppy.csprojAssemblyReference.cache
+C:\Users\e1900907\olio-tehtavat\T2-Mäkihyppy\obj\Debug\netcoreapp3.1\T2-Mäkihyppy.csproj.CoreCompileInputs.cache
+C:\Users\e1900907\olio-tehtavat\T2-Mäkihyppy\obj\Debug\netcoreapp3.1\T2-Mäkihyppy.AssemblyInfoInputs.cache
+C:\Users\e1900907\olio-tehtavat\T2-Mäkihyppy\obj\Debug\netcoreapp3.1\T2-Mäkihyppy.AssemblyInfo.cs
+C:\Users\e1900907\olio-tehtavat\T2-Mäkihyppy\obj\Debug\netcoreapp3.1\T2-Mäkihyppy.dll
+C:\Users\e1900907\olio-tehtavat\T2-Mäkihyppy\obj\Debug\netcoreapp3.1\T2-Mäkihyppy.pdb
+C:\Users\e1900907\olio-tehtavat\T2-Mäkihyppy\obj\Debug\netcoreapp3.1\T2-Mäkihyppy.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\e1900907\olio-tehtavat\T3-Kulutus\bin\Debug\netcoreapp3.1\T3-Kulutus.exe
+C:\Users\e1900907\olio-tehtavat\T3-Kulutus\bin\Debug\netcoreapp3.1\T3-Kulutus.deps.json
+C:\Users\e1900907\olio-tehtavat\T3-Kulutus\bin\Debug\netcoreapp3.1\T3-Kulutus.runtimeconfig.json
+C:\Users\e1900907\olio-tehtavat\T3-Kulutus\bin\Debug\netcoreapp3.1\T3-Kulutus.runtimeconfig.dev.json
+C:\Users\e1900907\olio-tehtavat\T3-Kulutus\bin\Debug\netcoreapp3.1\T3-Kulutus.dll
+C:\Users\e1900907\olio-tehtavat\T3-Kulutus\bin\Debug\netcoreapp3.1\T3-Kulutus.pdb
+C:\Users\e1900907\olio-tehtavat\T3-Kulutus\obj\Debug\netcoreapp3.1\T3-Kulutus.csprojAssemblyReference.cache
+C:\Users\e1900907\olio-tehtavat\T3-Kulutus\obj\Debug\netcoreapp3.1\T3-Kulutus.csproj.CoreCompileInputs.cache
+C:\Users\e1900907\olio-tehtavat\T3-Kulutus\obj\Debug\netcoreapp3.1\T3-Kulutus.AssemblyInfoInputs.cache
+C:\Users\e1900907\olio-tehtavat\T3-Kulutus\obj\Debug\netcoreapp3.1\T3-Kulutus.AssemblyInfo.cs
+C:\Users\e1900907\olio-tehtavat\T3-Kulutus\obj\Debug\netcoreapp3.1\T3-Kulutus.dll
+C:\Users\e1900907\olio-tehtavat\T3-Kulutus\obj\Debug\netcoreapp3.1\T3-Kulutus.pdb
+C:\Users\e1900907\olio-tehtavat\T3-Kulutus\obj\Debug\netcoreapp3.1\T3-Kulutus.genruntimeconfig.cache
